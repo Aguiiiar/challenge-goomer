@@ -35,6 +35,13 @@
   dependencies:
     fast-json-stringify "^5.0.0"
 
+"@fastify/postgres@^5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@fastify/postgres/-/postgres-5.2.0.tgz#d97560739845c1af35a2613603191d161720fe62"
+  integrity sha512-5NVC+11YGHhv4YoQoNTUduMeD6QHT+axZbF6AHA5vkMj8R7hndjS48Rbqdzqll7Q8aXgaXmwb1FndboBvKyBZQ==
+  dependencies:
+    fastify-plugin "^4.0.0"
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.1.0.tgz#2203b118c157721addfe69d47b70465463066d78"
@@ -328,6 +335,11 @@ fast-uri@^2.0.0, fast-uri@^2.1.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/fast-uri/-/fast-uri-2.2.0.tgz#519a0f849bef714aad10e9753d69d8f758f7445a"
   integrity sha512-cIusKBIt/R/oI6z/1nyfe2FvGKVTohVRfvkOhvx0nCEW+xf5NoCXjAHcWp93uOUBchzYcsvPlrapAdX1uW+YGg==
+
+fastify-plugin@^4.0.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/fastify-plugin/-/fastify-plugin-4.5.0.tgz#8b853923a0bba6ab6921bb8f35b81224e6988d91"
+  integrity sha512-79ak0JxddO0utAXAQ5ccKhvs6vX2MGyHHMMsmZkBANrq3hXc1CHzvNPHOcvTsVMEPl5I+NT+RO4YKMGehOfSIg==
 
 fastify@^4.14.0:
   version "4.14.0"
